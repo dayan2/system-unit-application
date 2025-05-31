@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquidLabsAPI", "LiquidLabsAPI\LiquidLabsAPI.csproj", "{3CAB4B06-7872-4ACC-A0DC-EBECED550C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquidLabs.Services", "LiquidLabs.Services\LiquidLabs.Services.csproj", "{62033788-2864-44CE-B881-0D02CBB39573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquidLabs.Dto", "LiquidLabs.Dto\LiquidLabs.Dto.csproj", "{6F1D88DB-95FA-4E2F-9728-9FDC19299BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CAB4B06-7872-4ACC-A0DC-EBECED550C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAB4B06-7872-4ACC-A0DC-EBECED550C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAB4B06-7872-4ACC-A0DC-EBECED550C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAB4B06-7872-4ACC-A0DC-EBECED550C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62033788-2864-44CE-B881-0D02CBB39573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62033788-2864-44CE-B881-0D02CBB39573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62033788-2864-44CE-B881-0D02CBB39573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62033788-2864-44CE-B881-0D02CBB39573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1D88DB-95FA-4E2F-9728-9FDC19299BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1D88DB-95FA-4E2F-9728-9FDC19299BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1D88DB-95FA-4E2F-9728-9FDC19299BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1D88DB-95FA-4E2F-9728-9FDC19299BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9108F0B1-F776-4972-B1CA-A5C8EA0A5910}
+	EndGlobalSection
+EndGlobal
